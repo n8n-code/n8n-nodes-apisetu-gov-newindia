@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-newindia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "New India Assurance policies: Motor, Health, Travel, Rural, Marine for Indian citizens.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-newindia",
